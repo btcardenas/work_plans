@@ -10,3 +10,4 @@ Making yet another round of edits to this documents.
 Making some more edits and such on the browser in github.
 
 
+Editing again in nano on the desktop. Will it save to git?
